@@ -22,4 +22,4 @@ Assurez-vous d'avoir les éléments suivants avant d'utiliser le script :
 3. Exécutez le script en utilisant la commande suivante :
 
    ```powershell
-   .\install-logiciel.ps1
+   .\InstallMSI-Logs.ps1
